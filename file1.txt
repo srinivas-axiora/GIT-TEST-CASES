@@ -1,3 +1,7 @@
+
 this is first file in GIT-TEST folder
 AND
-this is first learning in git fetch and git pull request
+this is first learning in git fetch and git pull
+this is first learning in git fetch and git pull request from github editing inside the file
+adding second line to it
+
